@@ -11,10 +11,8 @@ Searching for meals, my first vue project.
 -   <b>tailwindcss</b>
 -   <b>vuex</b>
 
-<h2>HOW TO START:</h2>
-
--   <b>npm install</b>
--   <b>npm run dev</b>
+<h2>DEPLOYED:</h2>
+- <b>https://searchmealsorg.netlify.app</b> 
 
 <h2>Project screenshot</h2>
 
